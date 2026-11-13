@@ -1,0 +1,31 @@
+{
+  "id": "./",
+  "name": "NMR Impurity Finder",
+  "short_name": "NMR Finder",
+  "description": "Offline ¹H and ¹³C NMR solvent and impurity reference finder, created by Davide Andrea Coppini with ChatGPT assistance.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#081522",
+  "theme_color": "#081624",
+  "lang": "en",
+  "categories": [
+    "education",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
